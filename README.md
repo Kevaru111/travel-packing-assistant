@@ -40,7 +40,11 @@ UI --> User : Personalized packing list
 
 @enduml
 ```
+<<<<<<< HEAD
 ![Component Diagram](diagrams/images/component.png)
+=======
+
+>>>>>>> 5c9d8b7124c6319f7c4fc091438c0644fa470e1d
 ---
 
 ### Mermaid UML
@@ -119,8 +123,11 @@ end
 @enduml
 ```
 
+<<<<<<< HEAD
 ![Sequence Diagram](diagrams/images/sequence.png)
 
+=======
+>>>>>>> 5c9d8b7124c6319f7c4fc091438c0644fa470e1d
 ---
 
 ### Mermaid UML
