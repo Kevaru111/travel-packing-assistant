@@ -1,0 +1,95 @@
+{
+  "X": {
+    "destination": "Rome, Italy",
+    "duration_days": 5,
+    "season": "summer",
+    "trip_type": "city_trip",
+    "activities": [
+      "walking around the city",
+      "visiting museums",
+      "restaurants"
+    ],
+    "luggage_type": "carry_on",
+    "additional_preferences": "Pack light and avoid unnecessary items."
+  },
+  "y": {
+    "trip_summary": "5-day summer city trip to Rome with carry-on luggage.",
+    "packing_list": {
+      "documents": [
+        {
+          "item": "ID card or passport",
+          "priority": "essential",
+          "reason": "Required for identification and travel."
+        },
+        {
+          "item": "Travel reservations",
+          "priority": "essential",
+          "reason": "Useful for accommodation and transport check-in."
+        }
+      ],
+      "clothing": [
+        {
+          "item": "4 lightweight T-shirts",
+          "priority": "high",
+          "reason": "Suitable for warm weather and daily city activities."
+        },
+        {
+          "item": "2 pairs of shorts",
+          "priority": "high",
+          "reason": "Comfortable for summer sightseeing."
+        },
+        {
+          "item": "1 pair of lightweight long trousers",
+          "priority": "medium",
+          "reason": "Useful for restaurants or places requiring more covered clothing."
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "priority": "essential",
+          "reason": "The trip includes a lot of walking."
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone and charger",
+          "priority": "essential",
+          "reason": "Needed for communication, navigation and travel information."
+        },
+        {
+          "item": "Power bank",
+          "priority": "medium",
+          "reason": "Useful during long sightseeing days."
+        }
+      ],
+      "hygiene": [
+        {
+          "item": "Travel-size toiletries",
+          "priority": "high",
+          "reason": "Compact toiletries are suitable for carry-on luggage."
+        },
+        {
+          "item": "Sunscreen",
+          "priority": "high",
+          "reason": "Recommended for summer outdoor activities."
+        }
+      ],
+      "additional": [
+        {
+          "item": "Sunglasses",
+          "priority": "medium",
+          "reason": "Useful in sunny summer weather."
+        },
+        {
+          "item": "Reusable water bottle",
+          "priority": "medium",
+          "reason": "Helpful during long walks."
+        }
+      ]
+    },
+    "baggage_optimization": [
+      "Choose clothes that can be combined into several outfits.",
+      "Use travel-size hygiene products.",
+      "Wear the bulkiest shoes during travel to save carry-on space."
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "X": {
+    "destination": "Berlin, Germany",
+    "duration_days": 3,
+    "season": "spring",
+    "trip_type": "business_trip",
+    "activities": [
+      "conference",
+      "business meetings",
+      "restaurant dinner"
+    ],
+    "luggage_type": "carry_on",
+    "additional_preferences": "Keep the packing list professional and compact."
+  },
+  "y": {
+    "trip_summary": "3-day spring business trip to Berlin with carry-on luggage.",
+    "packing_list": {
+      "documents": [
+        {
+          "item": "ID card or passport",
+          "priority": "essential",
+          "reason": "Required for identification and travel."
+        },
+        {
+          "item": "Conference registration and travel reservations",
+          "priority": "essential",
+          "reason": "Needed for conference access and travel arrangements."
+        }
+      ],
+      "clothing": [
+        {
+          "item": "2 business shirts",
+          "priority": "high",
+          "reason": "Suitable for meetings and conference attendance."
+        },
+        {
+          "item": "1 pair of formal trousers",
+          "priority": "high",
+          "reason": "Can be reused with different shirts."
+        },
+        {
+          "item": "Blazer or business jacket",
+          "priority": "high",
+          "reason": "Appropriate for professional meetings and dinner."
+        },
+        {
+          "item": "Comfortable formal shoes",
+          "priority": "essential",
+          "reason": "Suitable for both meetings and walking between venues."
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Laptop and charger",
+          "priority": "essential",
+          "reason": "Required for conference and business work."
+        },
+        {
+          "item": "Phone and charger",
+          "priority": "essential",
+          "reason": "Needed for communication and travel coordination."
+        },
+        {
+          "item": "Presentation adapter",
+          "priority": "medium",
+          "reason": "Useful if connecting the laptop to external displays."
+        }
+      ],
+      "hygiene": [
+        {
+          "item": "Travel-size toiletries",
+          "priority": "high",
+          "reason": "Suitable for a short carry-on-only trip."
+        }
+      ],
+      "additional": [
+        {
+          "item": "Notebook and pen",
+          "priority": "medium",
+          "reason": "Useful for taking notes during meetings or conference sessions."
+        },
+        {
+          "item": "Compact umbrella",
+          "priority": "medium",
+          "reason": "Spring weather may be variable."
+        }
+      ]
+    },
+    "baggage_optimization": [
+      "Choose clothing items that can be mixed and reused.",
+      "Keep toiletries travel-sized.",
+      "Carry essential electronics and documents in the personal item."
+    ]
+  }
+}
